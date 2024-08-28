@@ -1,0 +1,11 @@
+.data {
+    height: 100vh;
+    width: 50vw;
+    background-color: #454545;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 30px;
+}
